@@ -1,0 +1,132 @@
+aluno@LW13390:~/treinamento-react-redux$ history
+    1  ls
+    2  mkdir treinamento
+    3  cd treinamento/
+    4  curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | sh
+    5  ifconfig
+    6  curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | sh
+    7  ls
+    8  cd treinamento/
+    9  ls
+   10  source ~/.profile
+   11  rvm ls-remote
+   12  nvm ls-remote
+   13  nvm install 6.0.0
+   14  npm -v
+   15  npm init
+   16  ls
+   17  vim package.json
+   18  atom .
+   19  npm install webpack
+   20  vim webpack.config.js
+   21  ls
+   22  mkdir src
+   23  mkdir dist
+   24  cd src
+   25  ls
+   26  cd ..
+   27  ls
+   28  vim webpack.config.js
+   29  ls
+   30  vim package.json
+   31  npm run
+   32  vim package.json
+   33  npm run
+   34  ls
+   35  vim webpack.config.js
+   36  cd src/
+   37  ls
+   38  cd ..
+   39  cd dist/
+   40  ls
+   41  vim index.html
+   42  cd ..
+   43  vim package.json
+   44  npm run build
+   45  vim package.json
+   46  vim webpack.config.js
+   47  npm run build
+   48  vim webpack.config.js
+   49  cd src/
+   50  ls
+   51  vim index.js
+   52  cd ..
+   53  npm run build
+   54  npm install webpack-dev-server
+   55  ls node_modules/
+   56  vim package.json
+   57  vim dist/index.html
+   58  npm start
+   59  vim package.json
+   60  npm start
+   61  vim package.json
+   62  vim dist/index.html
+   63  ls
+   64  ls webpack.config.js
+   65  ls dist/
+   66  vim dist/index.html
+   67  vim package.json
+   68  npm start
+   69  vim package.json
+   70  npm start
+   71  vim package.json
+   72  npm install babel-core
+   73  npm install bable-loader
+   74  npm install babel-loader
+   75  vim webpack.config.js
+   76  npm run build
+   77  vim webpack.config.js
+   78  npm run build
+   79  vim webpack.config.js
+   80  atom .
+   81  vim webpack.config.js
+   82  npm run build
+   83  npm install babel-preset-es215 babel-preset-stage-0 babel-preset-react
+   84  npm install babel-preset-es2015 babel-preset-stage-0 babel-preset-react
+   85  vim .babelrc
+   86  npm run build
+   87  atom
+   88  atom .
+   89  npm install webpack webpack-dev-server babel-core babel-loader babel-preset-es215 babel-preset-stage-0 babel-preset-react --save-dev
+   90  npm install webpack webpack-dev-server babel-core babel-loader babel-preset-es2015 babel-preset-stage-0 babel-preset-react --save-dev
+   91  git init
+   92  npm install react --save
+   93  npm install react-dom --save
+   94  git add --all
+   95  git status
+   96  cd ..
+   97  mkdir treinamento-react-redux
+   98  cp treinamento treinamento-react-redux/
+   99  cp treinamento/ treinamento-react-redux/
+  100  cd treinamento-react-redux/
+  101  git init
+  102  git remote add origin git@github.com:mateusmpa/treinamento-react-redux.git
+  103  git add --all
+  104  git status
+  105  git add .
+  106  git add --all
+  107  git status
+  108  git commit -m 'treinamento'
+  109  git config --global user.email "mateusmpa@gmail.com"
+  110  git config --global user.name "Mateus Alves"
+  111  git commit -m 'treinamento'
+  112  git push origin master
+  113  git push -u origin master
+  114  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  115  cat ~/.ssh/id_rsa.pub
+  116  git push -u origin master
+  117  sudo apt-get install atom4
+  118  ssudo apt-get install modules: {
+  119  sudo apt-get install git
+  120  ls
+  121  ls src/
+  122  vim src/index.js
+  123  vim webpack.config.js
+  124  vim src/index.js
+  125  cd treinamento-react-redux/
+  126  atom .
+  127  cd treinamento-
+  128  cd treinamento-react-redux/
+  129  atom .
+  130  history
+aluno@LW13390:~/treinamento-react-redux$
